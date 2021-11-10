@@ -1,0 +1,16 @@
+C:\git\Cadastro-de-Series\bin\Debug\net5.0\Cadastro-de-Series.exe
+C:\git\Cadastro-de-Series\bin\Debug\net5.0\Cadastro-de-Series.deps.json
+C:\git\Cadastro-de-Series\bin\Debug\net5.0\Cadastro-de-Series.runtimeconfig.json
+C:\git\Cadastro-de-Series\bin\Debug\net5.0\Cadastro-de-Series.runtimeconfig.dev.json
+C:\git\Cadastro-de-Series\bin\Debug\net5.0\Cadastro-de-Series.dll
+C:\git\Cadastro-de-Series\bin\Debug\net5.0\ref\Cadastro-de-Series.dll
+C:\git\Cadastro-de-Series\bin\Debug\net5.0\Cadastro-de-Series.pdb
+C:\git\Cadastro-de-Series\obj\Debug\net5.0\Cadastro-de-Series.csproj.AssemblyReference.cache
+C:\git\Cadastro-de-Series\obj\Debug\net5.0\Cadastro-de-Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Cadastro-de-Series\obj\Debug\net5.0\Cadastro-de-Series.AssemblyInfoInputs.cache
+C:\git\Cadastro-de-Series\obj\Debug\net5.0\Cadastro-de-Series.AssemblyInfo.cs
+C:\git\Cadastro-de-Series\obj\Debug\net5.0\Cadastro-de-Series.csproj.CoreCompileInputs.cache
+C:\git\Cadastro-de-Series\obj\Debug\net5.0\Cadastro-de-Series.dll
+C:\git\Cadastro-de-Series\obj\Debug\net5.0\ref\Cadastro-de-Series.dll
+C:\git\Cadastro-de-Series\obj\Debug\net5.0\Cadastro-de-Series.pdb
+C:\git\Cadastro-de-Series\obj\Debug\net5.0\Cadastro-de-Series.genruntimeconfig.cache
