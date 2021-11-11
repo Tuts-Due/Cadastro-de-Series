@@ -121,11 +121,16 @@ namespace Cadastro_de_Series
                         string entradaDescricao = Console.ReadLine();
                         Console.WriteLine(" ");
 
+
+                        Console.Write("Digite o Número de Temporadas: ");
+                        int entradaTemporada = int.Parse(Console.ReadLine());
+                        Console.WriteLine(" ");
                 Serie novaSerie = new Serie(id: repositorio.proximoID(),
                                             genero: (Genero)entradaGenero,
                                             titulo: entradaTitulo,
                                             ano: entradaAno,
-                                            descricao: entradaDescricao);
+                                            descricao: entradaDescricao,
+                                            temporada: entradaTemporada);
                     repositorio.Insere(novaSerie);
                     Console.ReadLine();
                     
@@ -155,12 +160,16 @@ namespace Cadastro_de_Series
                     Console.Write("Digite a Descrição da Série: ");
                     string entradaDescricao = Console.ReadLine();
                     Console.WriteLine(" ");
+                    Console.Write("Digite o Número de Temporadas: ");
+                    int entradaTemporada = int.Parse(Console.ReadLine());
+                    Console.WriteLine(" ");
 
                 Serie atualizaSerie = new Serie(id: indiceSerie,
                                             genero: (Genero)entradaGenero,
                                             titulo: entradaTitulo,
                                             ano: entradaAno,
-                                            descricao: entradaDescricao);
+                                            descricao: entradaDescricao,
+                                            temporada: entradaTemporada);
                     repositorio.Atualiza(indiceSerie,atualizaSerie);
                     Console.Write("Informações da série atualizada: " + atualizaSerie);
                     Console.WriteLine(" ");
